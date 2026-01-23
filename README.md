@@ -64,7 +64,7 @@
 
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: https://linkedin.com/in/bhaskararya01
-- 🌐 Portfolio: https://bhaskaraya3.github.io/portfolio-bhaskar/
+- 🌐 Portfolio: https://bhaskaraya3.github.io/bhaskar-arya-portfolio/
 - 📧 Email: bhashkararya2003@gmail.com
 
 ---
