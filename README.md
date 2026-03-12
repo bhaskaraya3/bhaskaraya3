@@ -1,57 +1,52 @@
-<h1 align="center">Hi, I'm Bhaskar Arya 👋</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI • DAX</h3>
+<p align="center">
+Data Analyst Portfolio | SQL • Python • Power BI | Real-World Data Projects
+</p>
+
+<h1 align="center">Hi, I'm Bhaskar Arya</h1>
+<h3 align="center">Data Analyst | Python, SQL, Statistics | Power BI & Data Visualization</h3>
 
 ---
 
-## 🚀 About Me
-- 📊 Turning raw data into **business insights**
-- 🧠 Strong in **SQL, EDA, and analytics**
-- 📈 Building **interactive Power BI dashboards**
-- 🎯 Target role: **Data Analyst**
-- 🔮 Future path: Data Scientist → ML Engineer
+## About Me
+- Data Analyst focused on **exploratory data analysis and business insights**
+- Strong in **SQL querying, data cleaning, and statistical analysis**
+- Build **interactive dashboards in Power BI**
+- Analyze datasets using **Python (Pandas, Matplotlib, Seaborn)**
+- Actively seeking **Data Analyst**
 
 ---
 
 ## 🧰 Tech Stack
 <p>
+  <img src="https://img.shields.io/badge/Python-Pandas-blue" />
+  <img src="https://img.shields.io/badge/Python-Seaborn-orange" />
   <img src="https://img.shields.io/badge/SQL-MySQL-blue" />
-  <img src="https://img.shields.io/badge/Python-Pandas-yellow" />
-  <img src="https://img.shields.io/badge/PowerBI-DAX-gold" />
-  <img src="https://img.shields.io/badge/EDA-Analytics-green" />
+  <img src="https://img.shields.io/badge/Statistics-Analysis-green" />
+  <img src="https://img.shields.io/badge/Visualization-PowerBI-yellow" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 SQL Case Studies
-- Coffee Sales Analysis  
-- Superstore Sales Analytics  
-- Advanced SQL (CTEs, Window Functions)
+### 🔹 Kickstart Campaign Analysis
+**SQL + Python analysis of crowdfunding campaigns to identify factors affecting project success.**
 
-🔗 Repo: https://github.com/bhaskaraya3/SQL-Case-Studies
+🔗 Repo: https://github.com/bhaskaraya3/Kickstart-Analytics-System
 
 ---
 
-### 🔹 Power BI Business Dashboards
-- Sales Performance Dashboard  
-- Revenue & KPI Analysis  
-- DAX Measures & Drilldowns
+## What I Focus On
 
-🔗 Repo: https://github.com/bhaskaraya3/PowerBI-Business-Dashboards
-
----
-
-### 🔹 Machine Learning Case Studies
-- Predictive Analytics
-- Feature Engineering
-- Model Evaluation
-
-🔗 Repo: https://github.com/bhaskaraya3/Machine-Learning-Case-Studies
+- Exploratory Data Analysis (EDA)
+- Business Insights from Data
+- Dashboard Development
+- Statistical Analysis
+- Data Storytelling
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhaskaraya3&show_icons=true&theme=tokyonight" />
 </p>
@@ -64,7 +59,6 @@
 
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: https://linkedin.com/in/bhaskararya01
-- 🌐 Portfolio: https://bhaskaraya3.github.io/bhaskar-arya-portfolio/
 - 📧 Email: bhashkararya2003@gmail.com
 
 ---
