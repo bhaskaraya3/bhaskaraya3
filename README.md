@@ -34,6 +34,8 @@ Data Analyst Portfolio | SQL • Python • Power BI | Real-World Data Projects
 
 🔗 Repo: https://github.com/bhaskaraya3/Kickstart-Analytics-System
 
+---
+
 ### 🔹 InstaCart Product And Customer Analysis
 **Pyspark project analyzes over 37M+ Instacart orders to uncover customer behavior, product demand patterns, and actionable business insights**
 
