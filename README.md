@@ -1,9 +1,9 @@
 <p align="center">
-Data Analyst Portfolio | SQL • Python • Power BI | Real-World Data Projects
+Product & Data Analyst | SQL • Python • Power BI • Excel | End to End Projects
 </p>
 
 <h1 align="center">Hi, I'm Bhaskar Arya</h1>
-<h3 align="center">Data Analyst | Python, SQL, Statistics | Power BI & Data Visualization</h3>
+<h3 align="center">Core Skills : SQL, Python, Statistics </h3>
 
 ---
 
@@ -12,7 +12,6 @@ Data Analyst Portfolio | SQL • Python • Power BI | Real-World Data Projects
 - Strong in **SQL querying, data cleaning, and statistical analysis**
 - Build **interactive dashboards in Power BI**
 - Analyze datasets using **Python (Pandas, Matplotlib, Seaborn)**
-- Actively seeking **Data Analyst**
 
 ---
 
@@ -33,23 +32,6 @@ Data Analyst Portfolio | SQL • Python • Power BI | Real-World Data Projects
 **SQL + Python analysis of crowdfunding campaigns to identify factors affecting project success.**
 
 🔗 Repo: https://github.com/bhaskaraya3/Kickstart-Analytics-System
-
----
-
-### 🔹 InstaCart Product And Customer Analysis
-**Pyspark project analyzes over 37M+ Instacart orders to uncover customer behavior, product demand patterns, and actionable business insights**
-
-🔗 Repo: https://github.com/bhaskaraya3/instacart-big-data-analytics-pyspark
-
----
-
-## What I Focus On
-
-- Exploratory Data Analysis (EDA)
-- Business Insights from Data
-- Dashboard Development
-- Statistical Analysis
-- Data Storytelling
 
 ---
 
