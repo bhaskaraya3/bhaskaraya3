@@ -1,20 +1,28 @@
-<div align="center">
+# <div align="center">
 
-```
-Data analyst · Product analyst
+```text
+
+data analyst · business intelligence
+
 ```
 
 # Bhaskar Arya
 
-**I turn raw data into decisions.**  
-End-to-end projects in SQL, Python, and Power BI.
+**Transforming data into actionable insights through SQL, Python, Statistics, and Power BI.**
 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-1D9E75?style=flat-square&labelColor=0F6E56)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Seaborn-7F77DD?style=flat-square&labelColor=3C3489)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-BA7517?style=flat-square&labelColor=854F0B)
-![Excel](https://img.shields.io/badge/Excel-Reporting-639922?style=flat-square&labelColor=3B6D11)
-![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-D85A30?style=flat-square&labelColor=993C1D)
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-7F77DD?style=flat-square&labelColor=3C3489)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-BA7517?style=flat-square&labelColor=854F0B)
+
+![Excel](https://img.shields.io/badge/Excel-Reporting-639922?style=flat-square&labelColor=3B6D11)
+
+![Statistics](https://img.shields.io/badge/Statistics-Analytics-D85A30?style=flat-square&labelColor=993C1D)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bhaskaraya3&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 </div>
 
 ---
@@ -22,30 +30,42 @@ End-to-end projects in SQL, Python, and Power BI.
 ## Skills
 
 | Domain | Tools & Techniques |
-|---|---|
-| **SQL** | Advanced queries, joins, CTEs, window functions, business analysis |
-| **Python** | Pandas, Seaborn, EDA, data cleaning, visualization |
-| **Power BI** | Interactive dashboards, KPI tracking, business reporting |
-| **Statistics** | Hypothesis testing, probability, descriptive analytics |
-| **Excel** | Pivot tables, data cleaning, reporting |
+
+| -------------- | ------------------------------------------------------------------ |
+
+| **SQL** | Advanced Queries, Joins, CTEs, Window Functions, Business Analysis |
+
+| **Python** | Pandas, NumPy, Data Cleaning, EDA, Data Visualization |
+
+| **Power BI** | Interactive Dashboards, KPI Tracking, DAX Fundamentals |
+
+| **Statistics** | Probability, Hypothesis Testing, Descriptive Analytics |
+
+| **Excel** | Pivot Tables, Data Cleaning, Reporting |
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🚀 Kickstart Campaign Analysis
 
-> SQL + Python analysis of crowdfunding campaigns to identify factors driving project success — across categories, funding goals, and launch timelines.
+> SQL + Python analysis of 370K+ crowdfunding campaigns to identify factors influencing project success.
 
-**What I did:**
-- Cleaned and structured raw Kickstarter data using Python (Pandas)
-- Wrote complex SQL queries to segment campaigns by success rate, category, and goal range
-- Visualized trends with Seaborn to surface actionable insights
-- Identified the top 3 predictors of campaign success
+#### What I Did
 
-**Stack:** `SQL` `Python` `Pandas` `Seaborn` `EDA`
+- Cleaned and prepared raw Kickstarter data using Pandas
 
-🔗 [View Project →](https://github.com/bhaskaraya3/Kickstart-Analytics-System)
+- Performed exploratory data analysis (EDA)
+
+- Wrote advanced SQL queries to analyze campaign performance
+
+- Visualized key trends using Seaborn and Matplotlib
+
+- Generated insights based on categories, funding goals, and launch timelines
+
+**Tech Stack:** `SQL` `Python` `Pandas` `Seaborn` `Matplotlib` `EDA`
+
+🔗 Repository: https://github.com/bhaskaraya3/Kickstart-Analytics-System
 
 ---
 
@@ -53,40 +73,40 @@ End-to-end projects in SQL, Python, and Power BI.
 
 <div align="center">
 
-![Bhaskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaskaraya3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75)
+<img src="https://github-readme-stats.vercel.app/api?username=bhaskaraya3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhaskaraya3&theme=tokyonight&hide_border=true&background=0D1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskaraya3&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskaraya3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskaraya3&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## What I'm Working On
+## Currently Learning
 
-- 📊 Building more end-to-end portfolio projects
-- 📚 Deepening knowledge in advanced SQL and Power BI DAX
-- 🔍 Exploring A/B testing and product analytics frameworks
+- Advanced SQL Optimization
+
+- Power BI DAX & Data Modeling
+
+- End-to-End Analytics Projects
 
 ---
 
 ## Let's Connect
 
-<div align="left">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhaskararya01-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskararya01)
-[![Email](https://img.shields.io/badge/Email-bhashkararya2003%40gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:bhashkararya2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bhaskaraya3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhaskaraya3)
 
-</div>
+[![Email](https://img.shields.io/badge/Email-bhashkararya2003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhashkararya2003@gmail.com)
 
 ---
 
 <div align="center">
 
-```
-// always learning. always building. always improving.
+```text
+
+always learning. always building. always improving.
+
 ```
 
 </div>
